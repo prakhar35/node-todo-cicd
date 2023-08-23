@@ -5,4 +5,3 @@ services:
     image: "trainwithshubham/node-app-test-new:latest"
     ports:
       - "8000:8000"
-
